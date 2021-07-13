@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him
 
-[![IsaiahT-Techs's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaiahT-Tech&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![IsaiahT-Techs's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaiahT-Tech)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahT-Tech&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahT-Tech)](https://github.com/anuraghazra/github-readme-stats)
 
