@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on building a web application in Python.
+
+🌱 I’m currently learning C.
+
+😄 Pronouns: He/Him
+
+[![IsaiahT-Techs's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaiahT-Tech&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahT-Tech&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
