@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on building a web application in Python.
-
-🌱 I’m currently learning C.
-
 ![IsaiahT-Techs's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaiahT-Tech)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiahT-Tech)
